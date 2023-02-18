@@ -21,8 +21,13 @@ In order to run both softwares,
 DSO and MDSO require access database file.
 bellow are the links to install database file to your computers
 
-MDSO: https://drive.google.com/drive/folders/18UtvF5xZ3Dq9qjkiEuDVIsnthsgEcPt2?usp=sharing
-DSO: https://drive.google.com/drive/folders/1Ve_2EtI3Uga7pu_GW0KjSr_mOgYvv2a-?usp=sharing
+MDSO:
+
+ https://drive.google.com/drive/folders/18UtvF5xZ3Dq9qjkiEuDVIsnthsgEcPt2?usp=sharing
+
+DSO:
+
+ https://drive.google.com/drive/folders/1Ve_2EtI3Uga7pu_GW0KjSr_mOgYvv2a-?usp=sharing
 
 after having the files contained in above links,  run accessdatabase file first 
 then click on Nazir application to run a software
