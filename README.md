@@ -31,5 +31,5 @@ DSO:
 
 after having the files contained in above links,  run accessdatabase file first 
 then click on Nazir application to run a software
-it is the same for DSO and MDSO
+it has the same for DSO and MDSO
 
