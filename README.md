@@ -15,8 +15,7 @@ doi: https://doi.org/10.1016/j.jcde.2019.04.004
 
 Nazir M. Hasan, Tarik A. Rashid, Abeer Alsadoon, Ahmed S. Qosaeri, Laith Abualigah , Zaher Mundher Yaseen (2022).An Enhanced Donkey and Smuggler Optimization Algorithm for Choosing the Precise Job Applicant. 
 DOI: https://doi.org/10.21203/rs.3.rs-1674600/v2 
-
-
+*/
 In order to run both softwares, 
 DSO and MDSO require access database file.
 bellow are the links to install database file to your computers
@@ -25,4 +24,4 @@ DSO: https://drive.google.com/drive/folders/1Ve_2EtI3Uga7pu_GW0KjSr_mOgYvv2a-?us
 after having the files contained in above links,  run accessdatabase file first 
 then click on Nazir application to run a software
 it is the same for DSO and MDSO
-*/
+
